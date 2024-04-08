@@ -1,0 +1,21 @@
+<!DOCTYPE html> 
+<html>
+    <head>No
+        <meta charset="UTF-8">
+        <title>
+            PASTEL
+        </title>
+        <STYLE>
+            .coisa{
+                width: 200px;
+                height: 200px;
+            }
+        </STYLE>
+    </head>
+
+    <body>
+        <a href="index.html"> da dulia </a>
+       <img src="https://blog.dipratos.com.br/wp-content/themes/yootheme/cache/8c/ideias-de-recheios-de-pastel-scaled-e1654349592262-8cb334ed.jpeg"; class="coisa">
+     
+    </body>
+</html>

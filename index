@@ -3,7 +3,7 @@
     <head>No
         <meta charset="UTF-8">
         <title>
-            PASTEL
+            Da DuLia
         </title>
         <STYLE>
             .coisa{
@@ -14,9 +14,16 @@
     </head>
 
     <body>
-        <a href="index.html"> da dulia </a>
+        <a href="index.html"> alduardo </a>
         <img src="https://blog.bendize.com.br/wp-content/uploads/2023/09/image-8-768x512.jpeg"; class="coisa">
+        <a href="index.html"> guilhedo </a>
         <img src="https://blog.dipratos.com.br/wp-content/themes/yootheme/cache/8c/ideias-de-recheios-de-pastel-scaled-e1654349592262-8cb334ed.jpeg"; class="coisa">
-     
+        <a href=" index.html"> fermuan </a>
+        <img src="https://www.pingodoce.pt/wp-content/uploads/2017/09/croissant.jpg"; class="coisa">
+        <a href="index.html"> cesanin </a> 
+        <img src="https://lecado.com.br/wp-content/uploads/2020/03/EMPADA-DE-FRANGO.jpg"; class="coisa">
+        <a href="index.html"> noche </a>
+        <img src="https://img.cybercook.com.br/receitas/81/pizza-caseira.jpeg"; class="coisa">
+
     </body>
 </html>

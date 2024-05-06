@@ -1,6 +1,6 @@
 <!DOCTYPE html> 
 <html>
-    <head>No
+    <head>
         <meta charset="UTF-8">
         <title>
             Da DuLia
@@ -14,16 +14,45 @@
     </head>
 
     <body>
-        <a href="index.html"> alduardo </a>
+        <div style="text-align: center; color:rgb(29, 14, 1); background-color: rgb(224, 140, 90); border: 5px solid rgb(99, 38, 3)">
+           <h1> DaDulia
+           </h1>
+           <p> Aqui temos diversas opções deliciosas para você!</p>
+        </div>
+    </body>
+
+    <body>
+        <div style=" text-align: center; text-decoration: rgb(158, 53, 4) ; font-size: large;style; color:rgb(0, 0, 0); background-color: rgba(233, 104, 29, 0.658); border: 10px solid rgb(99, 38, 3);">
+         <h1> Salgados: </h1>
+         <p>
         <img src="https://blog.bendize.com.br/wp-content/uploads/2023/09/image-8-768x512.jpeg"; class="coisa">
-        <a href="index.html"> guilhedo </a>
+        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/hamburguer.html" target="_blank"> Hambúrguer </a></li>
+        </p>
+        <p>
         <img src="https://blog.dipratos.com.br/wp-content/themes/yootheme/cache/8c/ideias-de-recheios-de-pastel-scaled-e1654349592262-8cb334ed.jpeg"; class="coisa">
-        <a href=" index.html"> fermuan </a>
+        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/pastel.html" target="_blank"> Pastel </a></li>
+        </p>
         <img src="https://www.pingodoce.pt/wp-content/uploads/2017/09/croissant.jpg"; class="coisa">
-        <a href="index.html"> cesanin </a> 
+        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/croissant.html" target="_blank"> Croissant </a></li>
+        <p>
         <img src="https://lecado.com.br/wp-content/uploads/2020/03/EMPADA-DE-FRANGO.jpg"; class="coisa">
-        <a href="index.html"> noche </a>
+        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/empadas.html" target="_blank"> Empada </a></li>
+        </p>
+        <p>
         <img src="https://img.cybercook.com.br/receitas/81/pizza-caseira.jpeg"; class="coisa">
+        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/pizzas.html" target="_blank"> Pizza </a></li>
+        </p>
+        <img src= "https://receitasdetudo.com/wp-content/uploads/2023/07/cebola-do-outback-com-molho.webp"; class="coisa">
+        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/por%C3%A7%C3%B5es.html" target="_blank"> Porções </a></li>
+        <p>
+            <h1> Doces:</h1>
+            <p>
+        <img src= "C:\Users\Alexander de Paula\Downloads\WhatsApp Image 2024-04-29 at 18.54.31.jpeg"; class="coisa">
+        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/doces.html" target="_blank"> Doces </a></li>
+        </p>
+        </p>
+    </div>
 
     </body>
+   
 </html>

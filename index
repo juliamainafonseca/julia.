@@ -26,29 +26,29 @@
          <h1> Salgados: </h1>
          <p>
         <img src="https://blog.bendize.com.br/wp-content/uploads/2023/09/image-8-768x512.jpeg"; class="coisa">
-        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/hamburguer.html" target="_blank"> Hambúrguer </a></li>
+        <li><a href="hamburguer.html" target="_blank"> Hambúrguer </a></li>
         </p>
         <p>
         <img src="https://blog.dipratos.com.br/wp-content/themes/yootheme/cache/8c/ideias-de-recheios-de-pastel-scaled-e1654349592262-8cb334ed.jpeg"; class="coisa">
-        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/pastel.html" target="_blank"> Pastel </a></li>
+        <li><a href="pastel.html" target="_blank"> Pastel </a></li>
         </p>
         <img src="https://www.pingodoce.pt/wp-content/uploads/2017/09/croissant.jpg"; class="coisa">
-        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/croissant.html" target="_blank"> Croissant </a></li>
+        <li><a href="croissant.html" target="_blank"> Croissant </a></li>
         <p>
         <img src="https://lecado.com.br/wp-content/uploads/2020/03/EMPADA-DE-FRANGO.jpg"; class="coisa">
-        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/empadas.html" target="_blank"> Empada </a></li>
+        <li><a href="empadas.html" target="_blank"> Empada </a></li>
         </p>
         <p>
         <img src="https://img.cybercook.com.br/receitas/81/pizza-caseira.jpeg"; class="coisa">
-        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/pizzas.html" target="_blank"> Pizza </a></li>
+        <li><a href="pizzas.html" target="_blank"> Pizza </a></li>
         </p>
         <img src= "https://receitasdetudo.com/wp-content/uploads/2023/07/cebola-do-outback-com-molho.webp"; class="coisa">
-        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/por%C3%A7%C3%B5es.html" target="_blank"> Porções </a></li>
+        <li><a href="porcoes.html" target="_blank"> Porções </a></li>
         <p>
             <h1> Doces:</h1>
             <p>
         <img src= "C:\Users\Alexander de Paula\Downloads\WhatsApp Image 2024-04-29 at 18.54.31.jpeg"; class="coisa">
-        <li><a href="file:///C:/Users/Alexander%20de%20Paula/OneDrive/Documentos/EaseUS/doces.html" target="_blank"> Doces </a></li>
+        <li><a href="doces.html" target="_blank"> Doces </a></li>
         </p>
         </p>
     </div>
